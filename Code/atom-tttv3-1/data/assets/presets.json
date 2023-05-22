@@ -1,0 +1,69 @@
+{
+  "presetName": "Default",
+  "items": [
+    {
+      "imgSrc": "./assets/01.jpeg",
+      "itemName": "Yakitori Tare",
+      "taste": {
+        "salty": 3,
+        "sour": 0,
+        "sweet": 5,
+        "bitter": 0,
+        "umami": 1,
+        "black": 4,
+        "cyan": 0,
+        "magenta": 2,
+        "yellow": 2
+      },
+      "editable": true
+    },
+    {
+      "imgSrc": "./assets/03.jpeg",
+      "itemName": "Lemon",
+      "taste": {
+        "salty": 3,
+        "sour": 2,
+        "sweet": 0,
+        "bitter": 0,
+        "umami": 0,
+        "black": 0,
+        "cyan": 0,
+        "magenta": 0,
+        "yellow": 1
+      },
+      "editable": true
+    },
+    {
+      "imgSrc": "./assets/02.jpeg",
+      "itemName": "Yakitori Sio",
+      "taste": {
+        "salty": 4,
+        "sour": 0,
+        "sweet": 0,
+        "bitter": 0,
+        "umami": 1,
+        "black": 0,
+        "cyan": 0,
+        "magenta": 0,
+        "yellow": 0
+      },
+      "editable": true
+    },
+    {
+      "imgSrc": "./assets/04.jpeg",
+      "itemName": "Chocolate",
+      "taste": {
+        "salty": 1,
+        "sour": 0,
+        "sweet": 6,
+        "bitter": 2,
+        "umami": 3,
+        "black": 0,
+        "cyan": 0,
+        "magenta": 0,
+        "yellow": 0
+      },
+      "editable": true
+    }
+  ]
+}

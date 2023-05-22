@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="assets/bootstrap.min.css" rel="stylesheet">
+
+  <title>Taste the TV</title>
+</head>
+<body>
+
+<div id="imageCarousel" class="carousel " data-bs-ride="carousel" data-bs-interval="false">
+  <div id="carouselIndicatorItems" class="carousel-indicators">
+
+  </div>
+  <div id="imageCarouselItems" class="carousel-inner">
+
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#imageCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#imageCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<div class="control-panel m-2 mx-4 d-grid gap-3">
+  <div class="d-grid gap-2">
+    <div>
+      <label for="saltinessInput" class="form-label">
+        <span>塩味: </span><span id="saltinessValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="10" step="1" id="saltinessInput">
+    </div>
+    <div>
+      <label for="sournessInput" class="form-label">
+        <span>酸味: </span><span id="sournessValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="10" step="1" id="sournessInput">
+    </div>
+    <div>
+      <label for="sweetnessInput" class="form-label">
+        <span>甘味: </span><span id="sweetnessValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="20" step="1" id="sweetnessInput">
+    </div>
+    <div>
+      <label for="bitternessInput" class="form-label">
+        <span>苦み: </span><span id="bitternessValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="10" step="1" id="bitternessInput">
+    </div>
+    <div>
+      <label for="umamiInput" class="form-label">
+        <span>旨味: </span><span id="umamiValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="10" step="1" id="umamiInput">
+    </div>
+    <div>
+      <label for="blackInput" class="form-label">
+        <span>ブラック: </span><span id="blackValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="10" step="1" id="blackInput">
+    </div>
+    <div>
+      <label for="cyanInput" class="form-label">
+        <span>シアン: </span><span id="cyanValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="10" step="1" id="cyanInput">
+    </div>
+    <div>
+      <label for="magentaInput" class="form-label">
+        <span>マゼンタ: </span><span id="magentaValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="10" step="1" id="magentaInput">
+    </div>
+    <div>
+      <label for="yellowInput" class="form-label">
+        <span>イエロー: </span><span id="yellowValueLabel">0</span>
+      </label>
+      <input type="range" class="form-range" value="0" min="0" max="10" step="1" id="yellowInput">
+    </div>
+  </div>
+
+  <div class="d-grid gap-2 col-6 mx-auto">
+    <button id="tasteButton" type="button" class="btn btn-primary btn-lg">Transform!</button>
+  </div>
+</div>
+
+
+
+<script src="assets/jquery-3.6.1.min.js"></script>
+<script src="assets/bootstrap.bundle.min.js"></script>
+<script src="assets/main.js"></script>
+
+</body>
+</html>
