@@ -27,11 +27,13 @@ https://research.miyashita.com/papers/D265
 ・GROVE - サーボ用2分岐ケーブル (5本セット)<br>
 　https://ssci.to/1250<br>
 ・DCプラグ2分岐ケーブル<br>
+ねじを追記する
 
 ## 作り方の動画
 必要に応じてケーブルの処理を行ってください
 
-## ケーブル
+## 使用方法
+Atom Liteにコードを入れてください
 
 ## Licence
 
