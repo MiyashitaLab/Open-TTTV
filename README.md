@@ -4,11 +4,34 @@ WISS2022で発表したOpen-TTTVの作り方についての記事です
 https://research.miyashita.com/papers/D265
 
 ## 必要なもの
-・本リポジトリ内のSTLファイル
-　ファイルの最後に数字がある場合はその数印刷してください
-・
+・本リポジトリ内のSTLファイル<br>
+　ファイルの最後に数字がある場合はその数印刷してください<br>
+・無印良品　ポリエチレン小分けボトル　スプレータイプ　15ml ×9<br>
+　https://www.muji.com/jp/ja/store/cmdty/detail/4550344579145<br>
+・タカハ機工　CB12500045 プッシュソレノイド DC6V仕様<br>
+　https://www.monotaro.com/p/4063/8168/<br>
+・FEETECH FT1117M ミニPWMサーボ<br>
+　https://ssci.to/7118<br>
+・スイッチングＡＣアダプター9V2A　AD-A90P200<br>
+　https://akizukidenshi.com/catalog/g/gM-08309/<br>
+・M5Stack用ME3116AM6G搭載 5V 降圧コンバータユニット<br>
+　https://ssci.to/7481<br>
+・M5Stack BAVG2ソケット<br>
+　https://ssci.to/7234<br>
+・M5Stack用拡張ハブユニット [U006]<br>
+　https://ssci.to/5696<br>
+・Solenoid UNIT<br>
+　https://ssci.to/8517<br>
+・ATOM Lite<br>
+　https://ssci.to/6262<br>
+・GROVE - サーボ用2分岐ケーブル (5本セット)<br>
+　https://ssci.to/1250<br>
+・DCプラグ2分岐ケーブル<br>
 
 ## 作り方の動画
+必要に応じてケーブルの処理を行ってください
+
+## ケーブル
 
 ## Licence
 
