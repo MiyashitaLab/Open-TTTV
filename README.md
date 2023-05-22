@@ -30,7 +30,12 @@ https://research.miyashita.com/papers/D265
 ねじを追記する
 
 ## 作り方の動画
-必要に応じてケーブルの処理を行ってください
+必要に応じてケーブルの処理、接着等を行ってください
+
+https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/e2cd4e65-859d-439d-b993-06d78c4f34ff
+
+## 内部の組み立て
+内部の組み立ては以下の図を参照してください
 
 ## 使用方法
 Atom Liteにコードを入れてください
