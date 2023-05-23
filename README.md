@@ -2,6 +2,7 @@
 WISS2022で発表したOpen-TTTVの作り方についての記事です
 <br>
 https://research.miyashita.com/papers/D265
+[![Open-TTTV紹介動画](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/9d14fff2-aa62-48b9-a0b4-95c911aaa22d)](https://youtu.be/m_Xsv6GISBo)
 
 ## 必要なもの
 ・本リポジトリ内のSTLファイル<br>
