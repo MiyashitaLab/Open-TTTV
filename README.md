@@ -28,16 +28,17 @@ https://research.miyashita.com/papers/D265
 　https://ssci.to/6262<br>
 ・GROVE - サーボ用2分岐ケーブル (5本セット)<br>
 　https://ssci.to/1250<br>
+・SARASA ×9
 ・DCプラグ2分岐ケーブル<br>
 ・ねじ　M3×30　1つ<br>
 ・ねじ　M4×10　4つ<br>
 ・ねじ　M5×15　4つ<br>
 ・ナット　M5　4つ<br>
 
-## 作り方の動画
-必要に応じてケーブルの処理、接着等を行ってください
-
+## 作り方
 https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/a30010e0-6b34-4036-aa6a-a0375af60b93
+必要に応じてケーブルの処理、接着等を行ってください<br>
+スプレーボトルの内部のばねをSARASAのばねと交換してください<br>
 
 ## 内部の組み立て
 内部の組み立ては以下の図を参照してください<br>
