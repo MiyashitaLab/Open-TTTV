@@ -6,6 +6,7 @@ https://research.miyashita.com/papers/D265
 ## 必要なもの
 ・本リポジトリ内のSTLファイル<br>
 　ファイルの最後に数字がある場合はその数印刷してください<br>
+　傾ける台は噴霧対象に応じて使い分けてください<br>
 ・無印良品　ポリエチレン小分けボトル　スプレータイプ　15ml ×9<br>
 　https://www.muji.com/jp/ja/store/cmdty/detail/4550344579145<br>
 ・タカハ機工　CB12500045 プッシュソレノイド DC6V仕様<br>
@@ -35,7 +36,7 @@ https://research.miyashita.com/papers/D265
 ## 作り方の動画
 必要に応じてケーブルの処理、接着等を行ってください
 
-https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/e2cd4e65-859d-439d-b993-06d78c4f34ff
+https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/a30010e0-6b34-4036-aa6a-a0375af60b93
 
 ## 内部の組み立て
 内部の組み立ては以下の図を参照してください
