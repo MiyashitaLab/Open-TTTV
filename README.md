@@ -2,7 +2,7 @@
 WISS2022で発表したOpen-TTTVの作り方についての記事です
 <br>
 https://research.miyashita.com/papers/D265
-[![Open-TTTV紹介動画](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/9d14fff2-aa62-48b9-a0b4-95c911aaa22d)](https://youtu.be/m_Xsv6GISBo)
+![maxresdefault](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/e3a12b44-d127-4a2f-b1e1-398a7da54043)
 
 ## 必要なもの
 ・本リポジトリ内のSTLファイル<br>
@@ -40,11 +40,13 @@ https://research.miyashita.com/papers/D265
 https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/a30010e0-6b34-4036-aa6a-a0375af60b93
 
 ## 内部の組み立て
-内部の組み立ては以下の図を参照してください
-
+内部の組み立ては以下の図を参照してください<br>
+内部の図を追記予定
 ## 使用方法
-Atom Liteにコードを入れてください
-
+①ATOM LiteにCode内のプログラムを書き込む<br>
+②スマホからATOM Liteに接続する<br>
+③ブラウザでIPアドレスを入力しページを開く<br>
+④任意に味を調整しSENDボタンを押す<br>
 ## Licence
 
 MIT License
