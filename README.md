@@ -38,6 +38,7 @@ https://research.miyashita.com/papers/D265
 ## 作り方
 
 https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/29ad6028-4944-4c81-b780-6740f61415f1
+
 より詳しい作り方は別のページを参照してください<br>
 ※必要に応じてケーブルの処理、接着等を行ってください<br>
 ※スプレーボトル内部のばねをSARASAのばねと交換してください<br>
