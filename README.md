@@ -36,9 +36,11 @@ https://research.miyashita.com/papers/D265
 ・ナット　M5　4つ<br>
 
 ## 作り方
-https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/a30010e0-6b34-4036-aa6a-a0375af60b93<br>
-必要に応じてケーブルの処理、接着等を行ってください<br>
-スプレーボトルの内部のばねをSARASAのばねと交換してください<br>
+
+https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/29ad6028-4944-4c81-b780-6740f61415f1
+
+※必要に応じてケーブルの処理、接着等を行ってください<br>
+※スプレーボトル内部のばねをSARASAのばねと交換してください<br>
 
 ## 内部の組み立て
 内部の組み立ては以下の図を参照してください<br>
