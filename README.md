@@ -28,7 +28,7 @@ https://research.miyashita.com/papers/D265
 　https://ssci.to/6262<br>
 ・GROVE - サーボ用2分岐ケーブル (5本セット)<br>
 　https://ssci.to/1250<br>
-・SARASA ×9
+・SARASA ×9<br>
 ・DCプラグ2分岐ケーブル<br>
 ・ねじ　M3×30　1つ<br>
 ・ねじ　M4×10　4つ<br>
