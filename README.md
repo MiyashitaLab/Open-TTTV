@@ -45,7 +45,7 @@ https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/29ad6028-4944-4c81-b78
 
 ## 内部の組み立て
 内部の組み立ては以下の図を参照してください<br>
-![Open-TTTV](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/73e59a36-5a82-4078-8d9d-56ce05cfe1d3)
+![Open-TTTV2](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/9035a545-445b-42c6-b418-01d8354de236)
 
 ## 使用方法
 ①ATOM LiteにCode内のプログラムを書き込む<br>
