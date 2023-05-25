@@ -39,6 +39,9 @@ https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/29ad6028-4944-4c81-b78
 
 ## 使用方法
 ①ATOM LiteにCode内のプログラムを書き込む<br>
+　※コンパイルには"M5Atom"、"ESP32Servo"のライブラリが必要です<br>
+　※data内のファイルはArduinoで書き込みするだけでは転送されず、別途SPIFFSアップローダを使って転送する必要があります<br>
+ 　　詳細は[こちらのページ](https://www.mgo-tec.com/blog-entry-spiffs-uploader-plugin-arduino-esp32.html)を参考にしてください<br>
 ②スマホからATOM Liteに接続する<br>
 ③ブラウザでIPアドレスを入力しページを開く<br>
 ④任意に味を調整しSENDボタンを押す<br>
