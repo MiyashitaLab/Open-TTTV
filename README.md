@@ -7,7 +7,7 @@ https://research.miyashita.com/papers/D265
 ## 必要なもの
 ・本リポジトリ内のSTLファイル<br>
 　ファイルの最後に数字がある場合はその数印刷してください<br>
-　傾ける台は噴霧対象に応じて使い分けてください<br>
+　Open-TTTVを傾ける台は噴霧対象に応じて使い分けてください<br>
 ・[無印良品　ポリエチレン小分けボトル　スプレータイプ　15ml](https://www.muji.com/jp/ja/store/cmdty/detail/4550344579145) ×9<br>
 ・[タカハ機工　CB12500045 プッシュソレノイド DC6V仕様](https://www.monotaro.com/p/4063/8168/)<br>
 ・[FEETECH FT1117M ミニPWMサーボ](https://ssci.to/7118)<br>
