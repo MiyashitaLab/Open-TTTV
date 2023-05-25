@@ -8,26 +8,16 @@ https://research.miyashita.com/papers/D265
 ・本リポジトリ内のSTLファイル<br>
 　ファイルの最後に数字がある場合はその数印刷してください<br>
 　傾ける台は噴霧対象に応じて使い分けてください<br>
-・無印良品　ポリエチレン小分けボトル　スプレータイプ　15ml ×9<br>
-　https://www.muji.com/jp/ja/store/cmdty/detail/4550344579145<br>
-・タカハ機工　CB12500045 プッシュソレノイド DC6V仕様<br>
-　https://www.monotaro.com/p/4063/8168/<br>
-・FEETECH FT1117M ミニPWMサーボ<br>
-　https://ssci.to/7118<br>
-・スイッチングＡＣアダプター9V2A　AD-A90P200<br>
-　https://akizukidenshi.com/catalog/g/gM-08309/<br>
-・M5Stack用ME3116AM6G搭載 5V 降圧コンバータユニット<br>
-　https://ssci.to/7481<br>
-・M5Stack BAVG2ソケット<br>
-　https://ssci.to/7234<br>
-・M5Stack用拡張ハブユニット [U006]<br>
-　https://ssci.to/5696<br>
-・Solenoid UNIT<br>
-　https://ssci.to/8517<br>
-・ATOM Lite<br>
-　https://ssci.to/6262<br>
-・GROVE - サーボ用2分岐ケーブル (5本セット)<br>
-　https://ssci.to/1250<br>
+・[無印良品　ポリエチレン小分けボトル　スプレータイプ　15ml](https://www.muji.com/jp/ja/store/cmdty/detail/4550344579145) ×9<br>
+・[タカハ機工　CB12500045 プッシュソレノイド DC6V仕様](https://www.monotaro.com/p/4063/8168/)<br>
+・[FEETECH FT1117M ミニPWMサーボ](https://ssci.to/7118)<br>
+・[スイッチングＡＣアダプター9V2A　AD-A90P200](https://akizukidenshi.com/catalog/g/gM-08309/)<br>
+・[M5Stack用ME3116AM6G搭載 5V 降圧コンバータユニット](https://ssci.to/7481)<br>
+・[M5Stack BAVG2ソケット](https://ssci.to/7234)<br>
+・[M5Stack用拡張ハブユニット [U006]](https://ssci.to/5696)<br>
+・[Solenoid UNIT](https://ssci.to/8517)<br>
+・[ATOM Lite](https://ssci.to/6262)<br>
+・[GROVE - サーボ用2分岐ケーブル (5本セット)](https://ssci.to/1250)<br>
 ・SARASA ×9<br>
 ・DCプラグ2分岐ケーブル<br>
 ・ねじ　M3×30　1つ<br>
