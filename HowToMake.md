@@ -36,7 +36,7 @@
 
 ### 7.サーボモータ土台にねじで固定
 ねじ(M3×30)で芯をサーボモータ土台に固定します。この時に芯内部を通しているソレノイドの導線を傷つけないように注意して下さい。
-![image](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/7af69f18-211c-4332-9550-9eb7cc5c22d0)
+![image](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/69cbb1cf-f653-41a2-94fe-2a4015b37e40)
 
 ### 8.筐体に取り付ける
 7.までに作ったものを筐体にねじ(M5×15)、ナット(M5)で固定します。
