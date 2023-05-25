@@ -43,8 +43,11 @@ https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/29ad6028-4944-4c81-b78
 　※data内のファイルはArduinoで書き込みするだけでは転送されず、別途SPIFFSアップローダを使って転送する必要があります<br>
  　　詳細は[こちらのページ](https://www.mgo-tec.com/blog-entry-spiffs-uploader-plugin-arduino-esp32.html)を参考にしてください<br>
 ②スマホからATOM Liteに接続する<br>
+　設定画面からWi-fiの接続先を検索し、Open-TTTVと接続します。初期パスワードは"opentttv"です。<br>
 ③ブラウザでIPアドレスを入力しページを開く<br>
+　任意のブラウザを立ち上げ、IPアドレスを入力して下さい<br>
 ④任意に味を調整しSENDボタンを押す<br>
+　任意の画像、味を選択し、画面下部にあるSENDボタンを押すことでOpen-TTTVから味が出力されます。
 ## Licence
 
 MIT License
