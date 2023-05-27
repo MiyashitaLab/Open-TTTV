@@ -18,22 +18,6 @@
       "editable": true
     },
     {
-      "imgSrc": "./assets/03.jpeg",
-      "itemName": "Lemon",
-      "taste": {
-        "salty": 3,
-        "sour": 2,
-        "sweet": 0,
-        "bitter": 0,
-        "umami": 0,
-        "black": 0,
-        "cyan": 0,
-        "magenta": 0,
-        "yellow": 1
-      },
-      "editable": true
-    },
-    {
       "imgSrc": "./assets/02.jpeg",
       "itemName": "Yakitori Sio",
       "taste": {
@@ -46,6 +30,22 @@
         "cyan": 0,
         "magenta": 0,
         "yellow": 0
+      },
+      "editable": true
+    },
+    {
+      "imgSrc": "./assets/03.jpeg",
+      "itemName": "Lemon",
+      "taste": {
+        "salty": 3,
+        "sour": 2,
+        "sweet": 0,
+        "bitter": 0,
+        "umami": 0,
+        "black": 0,
+        "cyan": 0,
+        "magenta": 0,
+        "yellow": 1
       },
       "editable": true
     },
