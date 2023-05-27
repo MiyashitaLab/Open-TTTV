@@ -50,4 +50,5 @@
 9.までに作ったものに筐体蓋を取り付けて完成です。
 ![image](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/b98a16d2-6d73-425a-bff8-a9e071c99af0)
 
+![image](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/fe9d0579-5e79-43ba-95ee-0a4ea72436fd)
 
