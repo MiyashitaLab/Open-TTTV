@@ -26,17 +26,11 @@ const int bottleIndexToAngle[] = {
 
 //順にsalty, sour, sweet, bitter, umami, black, cyan, magenta, yellowに対応
 //各味の置く場所を変えた場合はここを変える
-// const int tasteIndexToBottleIndex[] = {0, 1, 2, 3, 4, 5, 6, 7, 8};
-
-// black, cyan, magenta, yellow, salty, sour, sweet, bitter, umamiの順に置く
-//const int tasteIndexToBottleIndex[] = {4, 5, 6, 7, 8, 0, 1, 2, 3};
-const int tasteIndexToBottleIndex[] = { 4, 5, 6, 7, 8, 3, 0, 1, 2 };
-
+const int tasteIndexToBottleIndex[] = {0, 1, 2, 3, 4, 5, 6, 7, 8};
 
 //各味のsequence出力順
 //0: salty, 1: sour, 2: sweet, 3: bitter, 4: umami, 5: black, 6: cyan, 7: magenta, 8: yellow
-//const int tasteIndexSequence[] = {5, 6, 7, 8, 0, 1, 2, 3, 4};
-const int tasteIndexSequence[] = { 6, 7, 8, 5, 0, 1, 2, 3, 4 };
+const int tasteIndexSequence[] = { 0, 1, 2, 3, 4, 5, 6, 7, 8};
 
 const int solenoidPower = 255;  //0~255 線形では無いかも
 
