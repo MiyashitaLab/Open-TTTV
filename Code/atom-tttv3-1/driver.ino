@@ -6,22 +6,23 @@ const uint8_t cylinderServoPin = 22;
 const uint8_t pushSolenoidPin = 19;
 const uint8_t pushSolenoidPwmChannel = 15;
 
+//ボトルの本数を設定
 const int bottleNum = 9;
 
 //各indexごとのサーボ設定角度を指定
 const int offset = 0;
 const int angleDiv = 20;
-//個々の値を適宜調整してスプレーが押せるように調整してください
+//ここの値を適宜調整してスプレーがソレノイド直下に来るように調整してください
 const int bottleIndexToAngle[] = {
-  offset + 11,
-  offset + angleDiv * 1 + 5,
-  offset + angleDiv * 2 + 4,
-  offset + angleDiv * 3 + 2,
-  offset + angleDiv * 4 + 2,
-  offset + angleDiv * 5 + 0,
-  offset + angleDiv * 6 + 1,
-  offset + angleDiv * 7 - 0,
-  offset + angleDiv * 8 - 3
+  offset ,
+  offset + angleDiv * 1 ,
+  offset + angleDiv * 2 ,
+  offset + angleDiv * 3 ,
+  offset + angleDiv * 4 ,
+  offset + angleDiv * 5 ,
+  offset + angleDiv * 6 ,
+  offset + angleDiv * 7 ,
+  offset + angleDiv * 8 
 };
 
 //順にsalty, sour, sweet, bitter, umami, black, cyan, magenta, yellowに対応
