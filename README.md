@@ -47,7 +47,7 @@ https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/29ad6028-4944-4c81-b78
 ③ブラウザでIPアドレスを入力しページを開く<br>
 　任意のブラウザを立ち上げ、IPアドレスを入力して下さい<br>
 ④任意に味を調整しSENDボタンを押す<br>
-　任意の画像、味を選択し、画面下部にあるTransformボタンを押すことでOpen-TTTVから味が出力されます。<br>
+　任意の画像を選択、味を調整し、画面下部にあるTransformボタンを押すことでOpen-TTTVから味が出力されます。<br>
  ![DSC06923](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/553fa310-dc54-4407-ae7d-a8a765970340)
 
 ## Licence
