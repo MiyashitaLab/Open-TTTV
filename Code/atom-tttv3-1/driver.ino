@@ -2,8 +2,8 @@ TaskHandle_t th[2];
 
 Servo servo;
 
-const uint8_t cylinderServoPin = 22;
-const uint8_t pushSolenoidPin = 19;
+const uint8_t cylinderServoPin = 26;
+const uint8_t pushSolenoidPin = 32;
 const uint8_t pushSolenoidPwmChannel = 15;
 
 //ボトルの本数を設定
