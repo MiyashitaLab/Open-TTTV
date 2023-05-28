@@ -5,7 +5,7 @@ https://research.miyashita.com/papers/D265
 ![maxresdefault](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/e3a12b44-d127-4a2f-b1e1-398a7da54043)
 
 ## 必要なもの
-・本リポジトリ内のSTLファイル<br>
+・[本リポジトリ内のSTLファイル](https://github.com/MiyashitaLab/Open-TTTV/tree/main/STL)<br>
 　ファイルの最後に数字がある場合はその数印刷してください<br>
 　Open-TTTVを傾ける台は噴霧対象に応じて使い分けてください<br>
 ・[無印良品　ポリエチレン小分けボトル　スプレータイプ　15ml](https://www.muji.com/jp/ja/store/cmdty/detail/4550344579145) ×9<br>
@@ -18,12 +18,12 @@ https://research.miyashita.com/papers/D265
 ・[Solenoid UNIT](https://ssci.to/8517)<br>
 ・[ATOM Lite](https://ssci.to/6262)<br>
 ・[GROVE - サーボ用2分岐ケーブル (5本セット)](https://ssci.to/1250)<br>
-・SARASA ×9<br>
-・DCプラグ2分岐ケーブル<br>
-・ねじ　M3×30　1つ<br>
-・ねじ　M4×10　4つ<br>
-・ねじ　M5×15　4つ<br>
-・ナット　M5　4つ<br>
+・[SARASA](https://www.zebra.co.jp/pro/detail/sarasa-clip/?tab=lineup_sarasa-clip_05) ×9<br>
+・[2.1ｍｍ ΦＤＣ分岐ケーブル](https://akizukidenshi.com/catalog/g/gC-06723/)<br>
+・[皿頭小ねじ(ステンレス)](https://www.monotaro.com/p/0550/8465/)　M3×30　1つ<br>
+・[皿頭小ねじ(ステンレス)](https://www.monotaro.com/p/0550/8535/)　M4×10　4つ<br>
+・[皿頭小ねじ(ステンレス)](https://www.monotaro.com/p/0550/8754/)　M5×15　4つ<br>
+・[六角ナット　2種(ステンレス)](https://www.monotaro.com/p/4221/7585/)　M5　4つ<br>
 
 ## 作り方
 
