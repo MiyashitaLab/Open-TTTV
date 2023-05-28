@@ -24,6 +24,7 @@ https://research.miyashita.com/papers/D265
 ・[皿頭小ねじ(ステンレス)](https://www.monotaro.com/p/0550/8535/)　M4×10　4つ<br>
 ・[皿頭小ねじ(ステンレス)](https://www.monotaro.com/p/0550/8754/)　M5×15　4つ<br>
 ・[六角ナット　2種(ステンレス)](https://www.monotaro.com/p/4221/7585/)　M5　4つ<br>
+※サイズ・規格等が同じであれば上記リンク以外のものでも構いません
 
 ## 作り方
 
