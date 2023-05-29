@@ -54,7 +54,7 @@ https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/29ad6028-4944-4c81-b78
 
 ## License
 
-MIT License
+The MIT License(MIT)
 
 Copyright (c) [2023] [MiyashitaLab]
 
