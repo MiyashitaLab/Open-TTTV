@@ -52,7 +52,7 @@ https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/29ad6028-4944-4c81-b78
 　任意の画像を選択、味を調整し、画面下部にあるTransformボタンを押すことでOpen-TTTVから味が出力されます。<br>
  ![DSC06923](https://github.com/MiyashitaLab/Open-TTTV/assets/75302406/553fa310-dc54-4407-ae7d-a8a765970340)
 
-## Licence
+## License
 
 MIT License
 
